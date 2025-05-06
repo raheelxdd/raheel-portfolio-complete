@@ -105,7 +105,7 @@ export default function PortfolioPage() {
   return (
     <main className="overflow-y-auto h-screen bg-black">
       <div className="relative min-h-screen text-white overflow-hidden">
-        <nav className="absolute top-4 left-4 right-4 z-30 flex items-center justify-between px-6 py-3 bg-black/80 rounded-2xl backdrop-blur-md border border-white/10 transition-all duration-300 hover:shadow-lg hover:scale-[1.03] hover:shadow-white/5">
+        <nav className="absolute top-4 left-[5%] right-[5%] z-30 flex items-center justify-between px-6 py-3 bg-black/80 rounded-2xl backdrop-blur-md border border-white/10 transition-all duration-300 hover:shadow-lg hover:scale-[1.03] hover:shadow-white/5">
           <a href="https://www.instagram.com/raheel.xdd/" target="_blank" rel="noopener noreferrer" className="group flex items-center space-x-2 transition-transform duration-200 hover:scale-110">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-5 h-5 text-white transition-colors duration-300 group-hover:text-pink-500">
               <path d="M7.75 2A5.75 5.75 0 0 0 2 7.75v8.5A5.75 5.75 0 0 0 7.75 22h8.5A5.75 5.75 0 0 0 22 16.25v-8.5A5.75 5.75 0 0 0 16.25 2h-8.5Zm0 1.5h8.5A4.25 4.25 0 0 1 20.5 7.75v8.5a4.25 4.25 0 0 1-4.25 4.25h-8.5A4.25 4.25 0 0 1 3.5 16.25v-8.5A4.25 4.25 0 0 1 7.75 3.5ZM12 7a5 5 0 1 0 0 10 5 5 0 0 0 0-10Zm0 1.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7Zm5.25-.75a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z" />
